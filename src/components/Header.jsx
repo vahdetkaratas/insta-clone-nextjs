@@ -93,7 +93,7 @@ export default function Header() {
 
         <Link href='/' className='hidden lg:inline-flex'>
           <Image
-            src='/Instagram_logo_black.webp'
+            src='/instagram_logo_black.webp'
             width={96}
             height={96}
             alt='instagram logo'
@@ -102,7 +102,7 @@ export default function Header() {
 
         <Link href='/' className='lg:hidden'>
           <Image
-            src='/800px-Instagram_logo_2016.webp'
+            src='/instagram_logo.webp'
             width={40}
             height={40}
             alt='instagram logo'
